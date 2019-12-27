@@ -1,3 +1,4 @@
 NO. REG		: 1820010040
 Name		: Aryaputra Bhadrika Ihsan Pratama
 Jurusan		: Software Engineer
+Angkatan		: 2018
